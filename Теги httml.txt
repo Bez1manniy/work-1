@@ -23,7 +23,7 @@
   <p>Майор П-3 Ничев<q cite"http://google.com"> был лишь марионеткой Захарова</q></p>
   <hr />
   <p><blockquote cite"http://google.com">Words can be like X-rays, if you use them properly—they’ll go through anything.<br />  <br /> You read and you’re pierced.</blockquote></p>
-  --Виды Атрибутов--
+    --Виды Атрибутов--
   <p align="right">Текст справа</p>
   <p align="light">Текст слева</p>
   <p align="center">Текст по центру</p>
