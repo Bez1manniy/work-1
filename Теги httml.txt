@@ -27,4 +27,4 @@
   <p align="right">Текст справа</p>
   <p align="light">Текст слева</p>
   <p align="center">Текст по центру</p>
-  <p align="justify">Текста по ширине</p>
+  <p align="justify">Текст по ширине</p>
