@@ -1,26 +1,12 @@
 *,
-h5 {
-	font-family: 'Bruno Ace SC', cursive;
-font-family: 'Instrument Serif', serif;
-font-family: 'Kanit', sans-serif;
-font-family: 'Oswald', sans-serif;
-font-family: 'Pacifico', cursive;
-font-family: 'Raleway', sans-serif;
-font-family: 'Roboto Slab', serif;
-    font-size: 48px;
+h {
+ font-size:48px;
 }
 
-p {
-    font-size: 26px;
+b {
+font-size: 26px
 }
 
-strong {
-    font-size: 28px;
-}
-
-u {
-    font-size: 28px;
-}
-a {
-    font-size: 28px;
+pre {
+font-size: 26px
 }
